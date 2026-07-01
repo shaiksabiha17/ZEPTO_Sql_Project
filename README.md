@@ -1,10 +1,8 @@
 # ZEPTO_Sql_Project
 
 1. Database & Table Creation
-2. Data Import
-3.🔍 Data Exploration
-4.🧹 Data Cleaning
-5. 📊 Business Insights
+2. Data Import  3.🔍 Data Exploration 4.🧹 Data Cleaning
+5.  📊 Business Insights
 
 Found top 10 best-value products based on discount percentage
 
